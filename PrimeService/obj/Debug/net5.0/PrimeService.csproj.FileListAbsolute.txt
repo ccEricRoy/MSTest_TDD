@@ -1,0 +1,12 @@
+C:\Users\Eric.Roy\Documents\GitHub\MSTest_TDD\PrimeService\bin\Debug\net5.0\PrimeService.deps.json
+C:\Users\Eric.Roy\Documents\GitHub\MSTest_TDD\PrimeService\bin\Debug\net5.0\PrimeService.dll
+C:\Users\Eric.Roy\Documents\GitHub\MSTest_TDD\PrimeService\bin\Debug\net5.0\ref\PrimeService.dll
+C:\Users\Eric.Roy\Documents\GitHub\MSTest_TDD\PrimeService\bin\Debug\net5.0\PrimeService.pdb
+C:\Users\Eric.Roy\Documents\GitHub\MSTest_TDD\PrimeService\obj\Debug\net5.0\PrimeService.csprojAssemblyReference.cache
+C:\Users\Eric.Roy\Documents\GitHub\MSTest_TDD\PrimeService\obj\Debug\net5.0\PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric.Roy\Documents\GitHub\MSTest_TDD\PrimeService\obj\Debug\net5.0\PrimeService.AssemblyInfoInputs.cache
+C:\Users\Eric.Roy\Documents\GitHub\MSTest_TDD\PrimeService\obj\Debug\net5.0\PrimeService.AssemblyInfo.cs
+C:\Users\Eric.Roy\Documents\GitHub\MSTest_TDD\PrimeService\obj\Debug\net5.0\PrimeService.csproj.CoreCompileInputs.cache
+C:\Users\Eric.Roy\Documents\GitHub\MSTest_TDD\PrimeService\obj\Debug\net5.0\PrimeService.dll
+C:\Users\Eric.Roy\Documents\GitHub\MSTest_TDD\PrimeService\obj\Debug\net5.0\ref\PrimeService.dll
+C:\Users\Eric.Roy\Documents\GitHub\MSTest_TDD\PrimeService\obj\Debug\net5.0\PrimeService.pdb
