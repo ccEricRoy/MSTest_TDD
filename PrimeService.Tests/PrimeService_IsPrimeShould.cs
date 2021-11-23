@@ -12,10 +12,13 @@ namespace PrimeService.UnitTests.Services
             }
 
         [TestMethod]
-        public void IsPrime_InputIs1_ReturnFalse()
+        [DataRow(-1)]
+        [DataRow(0)]
+        [DataRow(1)]
+        public void IsPrime_InputIs1_ReturnFalse(int value)
         {
-            bool result = _primeService.IsPrime(1);
-            Assert.IsFalse(result, "1 should not be a prime");
+            bool result = _primeService.IsPrime(value);
+            Assert.IsFalse(result, "{value} should not be a prime");
         }
 
     }
