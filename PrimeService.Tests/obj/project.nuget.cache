@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "eDr9IHZTA3IGNFeQFgweZEuGrQGzHOy9JZGjzJG/PVWHwTKLAVGBv7Rmlvv/pauHLLp7qof37sMiTpaVoR70RQ==",
+  "dgSpecHash": "FtH+OAoRvXf+sXuay3bGhvtx0/txHYAAlaRXXaTbF/5W4lM7hm5t2DI/HHjkkM65tF1mxNxtf0VlM5L9ecHyxA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Eric.Roy\\Documents\\GitHub\\MSTest_TDD\\PrimeService.Tests\\PrimeService.Tests.csproj",
   "expectedPackageFiles": [
